@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      uses: actions/checkout@v4
-uses: actions/setup-python@v5
+      - name: ⬇️ Checkout repository
+        uses: actions/checkout@v4
 
       - name: 🐍 Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
@@ -24,7 +24,7 @@ uses: actions/setup-python@v5
       - name: 📊 Fetch stock prices
         env:
           ALPHA_VANTAGE_KEY: ${{ secrets.ALPHA_VANTAGE_KEY }}
-        run: python fetch_stocks.py
+        run: python Fetch_stocks.py
 
       - name: ✅ Commit and push changes
         run: |

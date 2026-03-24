@@ -1,21 +1,15 @@
 # 📈 Daily Stock Price Tracker
 
-Auto-updated every weekday via GitHub Actions + AI Analysis.
+Auto-updated every weekday via GitHub Actions.
 
-**Last Updated:** 2026-03-24 08:52:54 IST
+**Last Updated:** 2026-03-24 09:00:48 IST
 
 ## Today's Prices & Signals
 
-| Symbol | Price | Change % | Signal |
-|--------|-------|----------|--------|
-| RELIANCE.BSE | ₹0.0 | +0.00% | ⚪ HOLD |
-| TCS.BSE | ₹0.0 | +0.00% | ⚪ HOLD |
-| INFY.BSE | ₹0.0 | +0.00% | ⚪ HOLD |
-| WIPRO.BSE | ₹0.0 | +0.00% | ⚪ HOLD |
-| HDFCBANK.BSE | ₹0.0 | +0.00% | ⚪ HOLD |
-
-## 🤖 AI Summary
-
-AI summary unavailable (no API key).
-
-## 📊 Historical data → `data/stock_log.csv`
+| Stock | Price | Change % | Signal |
+|-------|-------|----------|--------|
+| Reliance Industries | ₹1409.7 | +0.13% | ⚪ HOLD |
+| TCS | ₹2400.5 | +0.70% | 🟡 BUY |
+| Infosys | ₹1286.2 | +2.34% | 🟢 STRONG BUY |
+| Wipro | ₹189.34 | +0.96% | 🟡 BUY |
+| HDFC Bank | ₹767.05 | +3.08% | 🟢 STRONG BUY |

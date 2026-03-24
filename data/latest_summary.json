@@ -1,56 +1,55 @@
 {
-  "last_updated": "2026-03-24 08:52:54",
+  "last_updated": "2026-03-24 09:00:48",
   "stocks": [
     {
-      "symbol": "RELIANCE.BSE",
-      "price": 0.0,
-      "prev_close": 0.0,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "volume": "N/A",
+      "symbol": "RELIANCE.NS",
+      "name": "Reliance Industries",
+      "price": 1409.7,
+      "prev_close": 1407.8,
+      "change": 1.9,
+      "change_pct": 0.13,
       "date": "2026-03-24",
-      "time": "08:52:54"
+      "time": "09:00:48"
     },
     {
-      "symbol": "TCS.BSE",
-      "price": 0.0,
-      "prev_close": 0.0,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "volume": "N/A",
+      "symbol": "TCS.NS",
+      "name": "TCS",
+      "price": 2400.5,
+      "prev_close": 2383.8,
+      "change": 16.7,
+      "change_pct": 0.7,
       "date": "2026-03-24",
-      "time": "08:52:54"
+      "time": "09:00:48"
     },
     {
-      "symbol": "INFY.BSE",
-      "price": 0.0,
-      "prev_close": 0.0,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "volume": "N/A",
+      "symbol": "INFY.NS",
+      "name": "Infosys",
+      "price": 1286.2,
+      "prev_close": 1256.8,
+      "change": 29.4,
+      "change_pct": 2.34,
       "date": "2026-03-24",
-      "time": "08:52:54"
+      "time": "09:00:48"
     },
     {
-      "symbol": "WIPRO.BSE",
-      "price": 0.0,
-      "prev_close": 0.0,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "volume": "N/A",
+      "symbol": "WIPRO.NS",
+      "name": "Wipro",
+      "price": 189.34,
+      "prev_close": 187.54,
+      "change": 1.8,
+      "change_pct": 0.96,
       "date": "2026-03-24",
-      "time": "08:52:54"
+      "time": "09:00:48"
     },
     {
-      "symbol": "HDFCBANK.BSE",
-      "price": 0.0,
-      "prev_close": 0.0,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "volume": "N/A",
+      "symbol": "HDFCBANK.NS",
+      "name": "HDFC Bank",
+      "price": 767.05,
+      "prev_close": 744.15,
+      "change": 22.9,
+      "change_pct": 3.08,
       "date": "2026-03-24",
-      "time": "08:52:54"
+      "time": "09:00:48"
     }
-  ],
-  "ai_summary": "AI summary unavailable (no API key)."
+  ]
 }

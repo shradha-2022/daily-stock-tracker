@@ -2,7 +2,7 @@
 
 Auto-updated every weekday via GitHub Actions + AI Analysis.
 
-**Last Updated:** 2026-03-24 07:30:20 IST
+**Last Updated:** 2026-03-24 08:52:54 IST
 
 ## Today's Prices & Signals
 

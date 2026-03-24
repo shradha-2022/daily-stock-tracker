@@ -1,0 +1,50 @@
+{
+  "last_updated": "2026-03-24 06:54:41",
+  "stocks": [
+    {
+      "symbol": "RELIANCE.BSE",
+      "price": "N/A",
+      "change": "N/A",
+      "change_pct": "N/A",
+      "volume": "N/A",
+      "date": "2026-03-24",
+      "time": "06:54:41"
+    },
+    {
+      "symbol": "TCS.BSE",
+      "price": "N/A",
+      "change": "N/A",
+      "change_pct": "N/A",
+      "volume": "N/A",
+      "date": "2026-03-24",
+      "time": "06:54:41"
+    },
+    {
+      "symbol": "INFY.BSE",
+      "price": "N/A",
+      "change": "N/A",
+      "change_pct": "N/A",
+      "volume": "N/A",
+      "date": "2026-03-24",
+      "time": "06:54:41"
+    },
+    {
+      "symbol": "WIPRO.BSE",
+      "price": "N/A",
+      "change": "N/A",
+      "change_pct": "N/A",
+      "volume": "N/A",
+      "date": "2026-03-24",
+      "time": "06:54:41"
+    },
+    {
+      "symbol": "HDFCBANK.BSE",
+      "price": "N/A",
+      "change": "N/A",
+      "change_pct": "N/A",
+      "volume": "N/A",
+      "date": "2026-03-24",
+      "time": "06:54:41"
+    }
+  ]
+}

@@ -1,17 +1,21 @@
 # 📈 Daily Stock Price Tracker
 
-Auto-updated every day via GitHub Actions.
+Auto-updated every weekday via GitHub Actions + AI Analysis.
 
-**Last Updated:** 2026-03-24 06:54:41 IST
+**Last Updated:** 2026-03-24 07:30:20 IST
 
-## Today's Prices
+## Today's Prices & Signals
 
-| Symbol | Price | Change | Change % | Volume |
-|--------|-------|--------|----------|--------|
-| RELIANCE.BSE | N/A | N/A | N/A | N/A |
-| TCS.BSE | N/A | N/A | N/A | N/A |
-| INFY.BSE | N/A | N/A | N/A | N/A |
-| WIPRO.BSE | N/A | N/A | N/A | N/A |
-| HDFCBANK.BSE | N/A | N/A | N/A | N/A |
+| Symbol | Price | Change % | Signal |
+|--------|-------|----------|--------|
+| RELIANCE.BSE | ₹0.0 | +0.00% | ⚪ HOLD |
+| TCS.BSE | ₹0.0 | +0.00% | ⚪ HOLD |
+| INFY.BSE | ₹0.0 | +0.00% | ⚪ HOLD |
+| WIPRO.BSE | ₹0.0 | +0.00% | ⚪ HOLD |
+| HDFCBANK.BSE | ₹0.0 | +0.00% | ⚪ HOLD |
 
-## 📊 Historical data is stored in `data/stock_log.csv`
+## 🤖 AI Summary
+
+AI summary unavailable (no API key).
+
+## 📊 Historical data → `data/stock_log.csv`

@@ -1,50 +1,56 @@
 {
-  "last_updated": "2026-03-24 06:54:41",
+  "last_updated": "2026-03-24 07:30:20",
   "stocks": [
     {
       "symbol": "RELIANCE.BSE",
-      "price": "N/A",
-      "change": "N/A",
-      "change_pct": "N/A",
+      "price": 0.0,
+      "prev_close": 0.0,
+      "change": 0.0,
+      "change_pct": 0.0,
       "volume": "N/A",
       "date": "2026-03-24",
-      "time": "06:54:41"
+      "time": "07:30:20"
     },
     {
       "symbol": "TCS.BSE",
-      "price": "N/A",
-      "change": "N/A",
-      "change_pct": "N/A",
+      "price": 0.0,
+      "prev_close": 0.0,
+      "change": 0.0,
+      "change_pct": 0.0,
       "volume": "N/A",
       "date": "2026-03-24",
-      "time": "06:54:41"
+      "time": "07:30:20"
     },
     {
       "symbol": "INFY.BSE",
-      "price": "N/A",
-      "change": "N/A",
-      "change_pct": "N/A",
+      "price": 0.0,
+      "prev_close": 0.0,
+      "change": 0.0,
+      "change_pct": 0.0,
       "volume": "N/A",
       "date": "2026-03-24",
-      "time": "06:54:41"
+      "time": "07:30:20"
     },
     {
       "symbol": "WIPRO.BSE",
-      "price": "N/A",
-      "change": "N/A",
-      "change_pct": "N/A",
+      "price": 0.0,
+      "prev_close": 0.0,
+      "change": 0.0,
+      "change_pct": 0.0,
       "volume": "N/A",
       "date": "2026-03-24",
-      "time": "06:54:41"
+      "time": "07:30:20"
     },
     {
       "symbol": "HDFCBANK.BSE",
-      "price": "N/A",
-      "change": "N/A",
-      "change_pct": "N/A",
+      "price": 0.0,
+      "prev_close": 0.0,
+      "change": 0.0,
+      "change_pct": 0.0,
       "volume": "N/A",
       "date": "2026-03-24",
-      "time": "06:54:41"
+      "time": "07:30:20"
     }
-  ]
+  ],
+  "ai_summary": "AI summary unavailable (no API key)."
 }

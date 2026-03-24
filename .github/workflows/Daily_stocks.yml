@@ -2,8 +2,11 @@ name: 📈 Daily Stock Price Logger
 
 on:
   schedule:
-    - cron: '30 4 * * 1-5'  # Runs Mon-Fri at 10:00 AM IST (4:30 UTC)
-  workflow_dispatch:          # Allows manual trigger from GitHub UI
+    - cron: '30 4 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   fetch-and-commit:
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: ⬇️ Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 🐍 Set up Python
         uses: actions/setup-python@v5

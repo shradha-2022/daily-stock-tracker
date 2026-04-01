@@ -1,55 +1,55 @@
 {
-  "last_updated": "2026-03-31 05:57:52",
+  "last_updated": "2026-04-01 06:08:23",
   "stocks": [
     {
       "symbol": "RELIANCE.NS",
       "name": "Reliance Industries",
-      "price": 1343.9,
-      "prev_close": 1348.1,
-      "change": -4.2,
-      "change_pct": -0.31,
-      "date": "2026-03-31",
-      "time": "05:57:51"
+      "price": 1374.9,
+      "prev_close": 1343.9,
+      "change": 31.0,
+      "change_pct": 2.31,
+      "date": "2026-04-01",
+      "time": "06:08:22"
     },
     {
       "symbol": "TCS.NS",
       "name": "TCS",
-      "price": 2358.9,
-      "prev_close": 2389.8,
-      "change": -30.9,
-      "change_pct": -1.29,
-      "date": "2026-03-31",
-      "time": "05:57:51"
+      "price": 2448.4,
+      "prev_close": 2358.9,
+      "change": 89.5,
+      "change_pct": 3.79,
+      "date": "2026-04-01",
+      "time": "06:08:22"
     },
     {
       "symbol": "INFY.NS",
       "name": "Infosys",
-      "price": 1250.6,
-      "prev_close": 1269.7,
-      "change": -19.1,
-      "change_pct": -1.5,
-      "date": "2026-03-31",
-      "time": "05:57:51"
+      "price": 1292.1,
+      "prev_close": 1250.6,
+      "change": 41.5,
+      "change_pct": 3.32,
+      "date": "2026-04-01",
+      "time": "06:08:23"
     },
     {
       "symbol": "WIPRO.NS",
       "name": "Wipro",
-      "price": 187.64,
-      "prev_close": 191.6,
-      "change": -3.96,
-      "change_pct": -2.07,
-      "date": "2026-03-31",
-      "time": "05:57:52"
+      "price": 192.85,
+      "prev_close": 187.64,
+      "change": 5.21,
+      "change_pct": 2.78,
+      "date": "2026-04-01",
+      "time": "06:08:23"
     },
     {
       "symbol": "HDFCBANK.NS",
       "name": "HDFC Bank",
-      "price": 731.55,
-      "prev_close": 756.2,
-      "change": -24.65,
-      "change_pct": -3.26,
-      "date": "2026-03-31",
-      "time": "05:57:52"
+      "price": 747.0,
+      "prev_close": 731.55,
+      "change": 15.45,
+      "change_pct": 2.11,
+      "date": "2026-04-01",
+      "time": "06:08:23"
     }
   ]
 }

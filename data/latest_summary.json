@@ -1,55 +1,55 @@
 {
-  "last_updated": "2026-04-30 06:44:58",
+  "last_updated": "2026-05-01 07:10:18",
   "stocks": [
     {
       "symbol": "RELIANCE.NS",
       "name": "Reliance Industries",
-      "price": 1412.3,
+      "price": 1436.0,
       "prev_close": 1425.4,
-      "change": -13.1,
-      "change_pct": -0.92,
-      "date": "2026-04-30",
-      "time": "06:44:58"
+      "change": 10.6,
+      "change_pct": 0.74,
+      "date": "2026-05-01",
+      "time": "07:10:17"
     },
     {
       "symbol": "TCS.NS",
       "name": "TCS",
-      "price": 2457.0,
+      "price": 2474.8,
       "prev_close": 2474.7,
-      "change": -17.7,
-      "change_pct": -0.72,
-      "date": "2026-04-30",
-      "time": "06:44:58"
+      "change": 0.1,
+      "change_pct": 0.0,
+      "date": "2026-05-01",
+      "time": "07:10:17"
     },
     {
       "symbol": "INFY.NS",
       "name": "Infosys",
-      "price": 1175.8,
+      "price": 1182.6,
       "prev_close": 1167.5,
-      "change": 8.3,
-      "change_pct": 0.71,
-      "date": "2026-04-30",
-      "time": "06:44:58"
+      "change": 15.1,
+      "change_pct": 1.29,
+      "date": "2026-05-01",
+      "time": "07:10:18"
     },
     {
       "symbol": "WIPRO.NS",
       "name": "Wipro",
-      "price": 201.37,
+      "price": 201.2,
       "prev_close": 200.68,
-      "change": 0.69,
-      "change_pct": 0.34,
-      "date": "2026-04-30",
-      "time": "06:44:58"
+      "change": 0.52,
+      "change_pct": 0.26,
+      "date": "2026-05-01",
+      "time": "07:10:18"
     },
     {
       "symbol": "HDFCBANK.NS",
       "name": "HDFC Bank",
-      "price": 770.1,
+      "price": 774.75,
       "prev_close": 779.0,
-      "change": -8.9,
-      "change_pct": -1.14,
-      "date": "2026-04-30",
-      "time": "06:44:58"
+      "change": -4.25,
+      "change_pct": -0.55,
+      "date": "2026-05-01",
+      "time": "07:10:18"
     }
   ]
 }

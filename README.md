@@ -2,14 +2,14 @@
 
 Auto-updated every weekday via GitHub Actions.
 
-**Last Updated:** 2026-05-07 07:22:17 IST
+**Last Updated:** 2026-05-08 06:12:30 IST
 
 ## Today's Prices & Signals
 
 | Stock | Price | Change % | Signal |
 |-------|-------|----------|--------|
-| Reliance Industries | ₹1445.1 | +0.50% | 🟡 BUY |
-| TCS | ₹2414.4 | -0.86% | 🟠 SELL |
-| Infosys | ₹1171.5 | +0.37% | ⚪ HOLD |
-| Wipro | ₹197.91 | -0.61% | 🟠 SELL |
-| HDFC Bank | ₹797.5 | +0.12% | ⚪ HOLD |
+| Reliance Industries | ₹1427.4 | -0.61% | 🟠 SELL |
+| TCS | ₹2378.7 | -0.95% | 🟠 SELL |
+| Infosys | ₹1170.0 | +0.63% | 🟡 BUY |
+| Wipro | ₹197.35 | -0.01% | ⚪ HOLD |
+| HDFC Bank | ₹781.6 | -1.82% | 🟠 SELL |

@@ -1,55 +1,55 @@
 {
-  "last_updated": "2026-05-11 07:58:30",
+  "last_updated": "2026-05-12 07:21:02",
   "stocks": [
     {
       "symbol": "RELIANCE.NS",
       "name": "Reliance Industries",
-      "price": 1402.2,
-      "prev_close": 1435.2,
-      "change": -33.0,
-      "change_pct": -2.3,
-      "date": "2026-05-11",
-      "time": "07:58:30"
+      "price": 1380.7,
+      "prev_close": 1388.2,
+      "change": -7.5,
+      "change_pct": -0.54,
+      "date": "2026-05-12",
+      "time": "07:21:02"
     },
     {
       "symbol": "TCS.NS",
       "name": "TCS",
-      "price": 2409.0,
-      "prev_close": 2394.4,
-      "change": 14.6,
-      "change_pct": 0.61,
-      "date": "2026-05-11",
-      "time": "07:58:30"
+      "price": 2299.7,
+      "prev_close": 2392.9,
+      "change": -93.2,
+      "change_pct": -3.89,
+      "date": "2026-05-12",
+      "time": "07:21:02"
     },
     {
       "symbol": "INFY.NS",
       "name": "Infosys",
-      "price": 1183.6,
-      "prev_close": 1179.2,
-      "change": 4.4,
-      "change_pct": 0.37,
-      "date": "2026-05-11",
-      "time": "07:58:30"
+      "price": 1131.6,
+      "prev_close": 1177.0,
+      "change": -45.4,
+      "change_pct": -3.86,
+      "date": "2026-05-12",
+      "time": "07:21:02"
     },
     {
       "symbol": "WIPRO.NS",
       "name": "Wipro",
-      "price": 197.95,
-      "prev_close": 197.91,
-      "change": 0.04,
-      "change_pct": 0.02,
-      "date": "2026-05-11",
-      "time": "07:58:30"
+      "price": 190.7,
+      "prev_close": 196.68,
+      "change": -5.98,
+      "change_pct": -3.04,
+      "date": "2026-05-12",
+      "time": "07:21:02"
     },
     {
       "symbol": "HDFCBANK.NS",
       "name": "HDFC Bank",
-      "price": 770.4,
-      "prev_close": 780.85,
-      "change": -10.45,
-      "change_pct": -1.34,
-      "date": "2026-05-11",
-      "time": "07:58:30"
+      "price": 752.75,
+      "prev_close": 763.65,
+      "change": -10.9,
+      "change_pct": -1.43,
+      "date": "2026-05-12",
+      "time": "07:21:02"
     }
   ]
 }

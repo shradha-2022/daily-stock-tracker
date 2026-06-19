@@ -1,55 +1,55 @@
 {
-  "last_updated": "2026-06-18 08:57:44",
+  "last_updated": "2026-06-19 09:16:46",
   "stocks": [
     {
       "symbol": "RELIANCE.NS",
       "name": "Reliance Industries",
-      "price": 1324.4,
-      "prev_close": 1332.7,
-      "change": -8.3,
-      "change_pct": -0.62,
-      "date": "2026-06-18",
-      "time": "08:57:43"
+      "price": 1317.3,
+      "prev_close": 1328.1,
+      "change": -10.8,
+      "change_pct": -0.81,
+      "date": "2026-06-19",
+      "time": "09:16:46"
     },
     {
       "symbol": "TCS.NS",
       "name": "TCS",
-      "price": 2189.2,
-      "prev_close": 2223.0,
-      "change": -33.8,
-      "change_pct": -1.52,
-      "date": "2026-06-18",
-      "time": "08:57:44"
+      "price": 2101.6,
+      "prev_close": 2203.3,
+      "change": -101.7,
+      "change_pct": -4.62,
+      "date": "2026-06-19",
+      "time": "09:16:46"
     },
     {
       "symbol": "INFY.NS",
       "name": "Infosys",
-      "price": 1128.6,
-      "prev_close": 1157.7,
-      "change": -29.1,
-      "change_pct": -2.51,
-      "date": "2026-06-18",
-      "time": "08:57:44"
+      "price": 1043.3,
+      "prev_close": 1127.5,
+      "change": -84.2,
+      "change_pct": -7.47,
+      "date": "2026-06-19",
+      "time": "09:16:46"
     },
     {
       "symbol": "WIPRO.NS",
       "name": "Wipro",
-      "price": 181.88,
-      "prev_close": 184.47,
-      "change": -2.59,
-      "change_pct": -1.4,
-      "date": "2026-06-18",
-      "time": "08:57:44"
+      "price": 179.35,
+      "prev_close": 182.84,
+      "change": -3.49,
+      "change_pct": -1.91,
+      "date": "2026-06-19",
+      "time": "09:16:46"
     },
     {
       "symbol": "HDFCBANK.NS",
       "name": "HDFC Bank",
-      "price": 794.85,
-      "prev_close": 787.1,
-      "change": 7.75,
-      "change_pct": 0.98,
-      "date": "2026-06-18",
-      "time": "08:57:44"
+      "price": 779.55,
+      "prev_close": 799.0,
+      "change": -19.45,
+      "change_pct": -2.43,
+      "date": "2026-06-19",
+      "time": "09:16:46"
     }
   ]
 }

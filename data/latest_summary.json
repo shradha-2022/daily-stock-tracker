@@ -1,55 +1,55 @@
 {
-  "last_updated": "2026-06-24 07:56:36",
+  "last_updated": "2026-06-25 07:57:54",
   "stocks": [
     {
       "symbol": "RELIANCE.NS",
       "name": "Reliance Industries",
-      "price": 1318.0,
-      "prev_close": 1309.5,
-      "change": 8.5,
-      "change_pct": 0.65,
-      "date": "2026-06-24",
-      "time": "07:56:36"
+      "price": 1321.4,
+      "prev_close": 1313.6,
+      "change": 7.8,
+      "change_pct": 0.59,
+      "date": "2026-06-25",
+      "time": "07:57:53"
     },
     {
       "symbol": "TCS.NS",
       "name": "TCS",
-      "price": 2105.7,
-      "prev_close": 2059.6,
-      "change": 46.1,
-      "change_pct": 2.24,
-      "date": "2026-06-24",
-      "time": "07:56:36"
+      "price": 2121.9,
+      "prev_close": 2109.0,
+      "change": 12.9,
+      "change_pct": 0.61,
+      "date": "2026-06-25",
+      "time": "07:57:53"
     },
     {
       "symbol": "INFY.NS",
       "name": "Infosys",
-      "price": 1049.9,
-      "prev_close": 1029.3,
-      "change": 20.6,
-      "change_pct": 2.0,
-      "date": "2026-06-24",
-      "time": "07:56:36"
+      "price": 1045.9,
+      "prev_close": 1056.6,
+      "change": -10.7,
+      "change_pct": -1.01,
+      "date": "2026-06-25",
+      "time": "07:57:53"
     },
     {
       "symbol": "WIPRO.NS",
       "name": "Wipro",
-      "price": 174.75,
-      "prev_close": 174.49,
-      "change": 0.26,
-      "change_pct": 0.15,
-      "date": "2026-06-24",
-      "time": "07:56:36"
+      "price": 174.68,
+      "prev_close": 174.48,
+      "change": 0.2,
+      "change_pct": 0.11,
+      "date": "2026-06-25",
+      "time": "07:57:53"
     },
     {
       "symbol": "HDFCBANK.NS",
       "name": "HDFC Bank",
-      "price": 789.85,
-      "prev_close": 774.65,
-      "change": 15.2,
-      "change_pct": 1.96,
-      "date": "2026-06-24",
-      "time": "07:56:36"
+      "price": 801.45,
+      "prev_close": 793.2,
+      "change": 8.25,
+      "change_pct": 1.04,
+      "date": "2026-06-25",
+      "time": "07:57:54"
     }
   ]
 }

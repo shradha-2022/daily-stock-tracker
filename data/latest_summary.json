@@ -1,55 +1,55 @@
 {
-  "last_updated": "2026-07-07 07:56:05",
+  "last_updated": "2026-07-08 06:43:45",
   "stocks": [
     {
       "symbol": "RELIANCE.NS",
       "name": "Reliance Industries",
-      "price": 1313.3,
-      "prev_close": 1321.3,
-      "change": -8.0,
-      "change_pct": -0.61,
-      "date": "2026-07-07",
-      "time": "07:56:04"
+      "price": 1290.6,
+      "prev_close": 1308.4,
+      "change": -17.8,
+      "change_pct": -1.36,
+      "date": "2026-07-08",
+      "time": "06:43:45"
     },
     {
       "symbol": "TCS.NS",
       "name": "TCS",
-      "price": 2094.8,
-      "prev_close": 2057.6,
-      "change": 37.2,
-      "change_pct": 1.81,
-      "date": "2026-07-07",
-      "time": "07:56:05"
+      "price": 2086.4,
+      "prev_close": 2096.1,
+      "change": -9.7,
+      "change_pct": -0.46,
+      "date": "2026-07-08",
+      "time": "06:43:45"
     },
     {
       "symbol": "INFY.NS",
       "name": "Infosys",
-      "price": 1077.7,
-      "prev_close": 1042.2,
-      "change": 35.5,
-      "change_pct": 3.41,
-      "date": "2026-07-07",
-      "time": "07:56:05"
+      "price": 1072.7,
+      "prev_close": 1071.8,
+      "change": 0.9,
+      "change_pct": 0.08,
+      "date": "2026-07-08",
+      "time": "06:43:45"
     },
     {
       "symbol": "WIPRO.NS",
       "name": "Wipro",
-      "price": 174.25,
-      "prev_close": 174.32,
-      "change": -0.07,
-      "change_pct": -0.04,
-      "date": "2026-07-07",
-      "time": "07:56:05"
+      "price": 175.03,
+      "prev_close": 173.0,
+      "change": 2.03,
+      "change_pct": 1.17,
+      "date": "2026-07-08",
+      "time": "06:43:45"
     },
     {
       "symbol": "HDFCBANK.NS",
       "name": "HDFC Bank",
-      "price": 830.5,
-      "prev_close": 829.85,
-      "change": 0.65,
-      "change_pct": 0.08,
-      "date": "2026-07-07",
-      "time": "07:56:05"
+      "price": 826.9,
+      "prev_close": 829.3,
+      "change": -2.4,
+      "change_pct": -0.29,
+      "date": "2026-07-08",
+      "time": "06:43:45"
     }
   ]
 }

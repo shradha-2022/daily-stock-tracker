@@ -1,55 +1,55 @@
 {
-  "last_updated": "2026-07-08 06:43:45",
+  "last_updated": "2026-07-10 07:56:59",
   "stocks": [
     {
       "symbol": "RELIANCE.NS",
       "name": "Reliance Industries",
-      "price": 1290.6,
-      "prev_close": 1308.4,
-      "change": -17.8,
-      "change_pct": -1.36,
-      "date": "2026-07-08",
-      "time": "06:43:45"
+      "price": 1301.0,
+      "prev_close": 1279.8,
+      "change": 21.2,
+      "change_pct": 1.66,
+      "date": "2026-07-10",
+      "time": "07:56:59"
     },
     {
       "symbol": "TCS.NS",
       "name": "TCS",
-      "price": 2086.4,
-      "prev_close": 2096.1,
-      "change": -9.7,
-      "change_pct": -0.46,
-      "date": "2026-07-08",
-      "time": "06:43:45"
+      "price": 2074.6,
+      "prev_close": 2049.5,
+      "change": 25.1,
+      "change_pct": 1.22,
+      "date": "2026-07-10",
+      "time": "07:56:59"
     },
     {
       "symbol": "INFY.NS",
       "name": "Infosys",
-      "price": 1072.7,
-      "prev_close": 1071.8,
-      "change": 0.9,
-      "change_pct": 0.08,
-      "date": "2026-07-08",
-      "time": "06:43:45"
+      "price": 1069.6,
+      "prev_close": 1050.8,
+      "change": 18.8,
+      "change_pct": 1.79,
+      "date": "2026-07-10",
+      "time": "07:56:59"
     },
     {
       "symbol": "WIPRO.NS",
       "name": "Wipro",
-      "price": 175.03,
-      "prev_close": 173.0,
-      "change": 2.03,
-      "change_pct": 1.17,
-      "date": "2026-07-08",
-      "time": "06:43:45"
+      "price": 175.49,
+      "prev_close": 172.76,
+      "change": 2.73,
+      "change_pct": 1.58,
+      "date": "2026-07-10",
+      "time": "07:56:59"
     },
     {
       "symbol": "HDFCBANK.NS",
       "name": "HDFC Bank",
-      "price": 826.9,
-      "prev_close": 829.3,
-      "change": -2.4,
-      "change_pct": -0.29,
-      "date": "2026-07-08",
-      "time": "06:43:45"
+      "price": 825.1,
+      "prev_close": 817.55,
+      "change": 7.55,
+      "change_pct": 0.92,
+      "date": "2026-07-10",
+      "time": "07:56:59"
     }
   ]
 }

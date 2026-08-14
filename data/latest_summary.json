@@ -1,55 +1,55 @@
 {
-  "last_updated": "2026-08-13 05:52:35",
+  "last_updated": "2026-08-14 05:50:49",
   "stocks": [
     {
       "symbol": "RELIANCE.NS",
       "name": "Reliance Industries",
-      "price": 1311.9,
-      "prev_close": 1329.0,
-      "change": -17.1,
-      "change_pct": -1.29,
-      "date": "2026-08-13",
-      "time": "05:52:35"
+      "price": 1304.4,
+      "prev_close": 1317.0,
+      "change": -12.6,
+      "change_pct": -0.96,
+      "date": "2026-08-14",
+      "time": "05:50:48"
     },
     {
       "symbol": "TCS.NS",
       "name": "TCS",
-      "price": 2347.5,
-      "prev_close": 2349.7,
-      "change": -2.2,
-      "change_pct": -0.09,
-      "date": "2026-08-13",
-      "time": "05:52:35"
+      "price": 2345.1,
+      "prev_close": 2375.0,
+      "change": -29.9,
+      "change_pct": -1.26,
+      "date": "2026-08-14",
+      "time": "05:50:48"
     },
     {
       "symbol": "INFY.NS",
       "name": "Infosys",
-      "price": 1162.5,
-      "prev_close": 1176.1,
-      "change": -13.6,
-      "change_pct": -1.16,
-      "date": "2026-08-13",
-      "time": "05:52:35"
+      "price": 1162.8,
+      "prev_close": 1175.0,
+      "change": -12.2,
+      "change_pct": -1.04,
+      "date": "2026-08-14",
+      "time": "05:50:49"
     },
     {
       "symbol": "WIPRO.NS",
       "name": "Wipro",
-      "price": 181.85,
-      "prev_close": 183.94,
-      "change": -2.09,
-      "change_pct": -1.14,
-      "date": "2026-08-13",
-      "time": "05:52:35"
+      "price": 183.65,
+      "prev_close": 183.1,
+      "change": 0.55,
+      "change_pct": 0.3,
+      "date": "2026-08-14",
+      "time": "05:50:49"
     },
     {
       "symbol": "HDFCBANK.NS",
       "name": "HDFC Bank",
-      "price": 726.75,
-      "prev_close": 729.0,
-      "change": -2.25,
-      "change_pct": -0.31,
-      "date": "2026-08-13",
-      "time": "05:52:35"
+      "price": 726.95,
+      "prev_close": 725.0,
+      "change": 1.95,
+      "change_pct": 0.27,
+      "date": "2026-08-14",
+      "time": "05:50:49"
     }
   ]
 }

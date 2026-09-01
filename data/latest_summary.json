@@ -1,55 +1,55 @@
 {
-  "last_updated": "2026-08-31 10:59:02",
+  "last_updated": "2026-09-01 09:29:52",
   "stocks": [
     {
       "symbol": "RELIANCE.NS",
       "name": "Reliance Industries",
-      "price": 1277.0,
-      "prev_close": 1287.0,
-      "change": -10.0,
-      "change_pct": -0.78,
-      "date": "2026-08-31",
-      "time": "10:59:01"
+      "price": 1302.6,
+      "prev_close": 1277.0,
+      "change": 25.6,
+      "change_pct": 2.0,
+      "date": "2026-09-01",
+      "time": "09:29:51"
     },
     {
       "symbol": "TCS.NS",
       "name": "TCS",
-      "price": 2399.3,
-      "prev_close": 2342.0,
-      "change": 57.3,
-      "change_pct": 2.45,
-      "date": "2026-08-31",
-      "time": "10:59:01"
+      "price": 2355.1,
+      "prev_close": 2399.3,
+      "change": -44.2,
+      "change_pct": -1.84,
+      "date": "2026-09-01",
+      "time": "09:29:51"
     },
     {
       "symbol": "INFY.NS",
       "name": "Infosys",
-      "price": 1133.8,
-      "prev_close": 1144.0,
-      "change": -10.2,
-      "change_pct": -0.89,
-      "date": "2026-08-31",
-      "time": "10:59:02"
+      "price": 1143.5,
+      "prev_close": 1133.8,
+      "change": 9.7,
+      "change_pct": 0.86,
+      "date": "2026-09-01",
+      "time": "09:29:51"
     },
     {
       "symbol": "WIPRO.NS",
       "name": "Wipro",
-      "price": 184.5,
-      "prev_close": 180.95,
-      "change": 3.55,
-      "change_pct": 1.96,
-      "date": "2026-08-31",
-      "time": "10:59:02"
+      "price": 180.71,
+      "prev_close": 184.5,
+      "change": -3.79,
+      "change_pct": -2.05,
+      "date": "2026-09-01",
+      "time": "09:29:51"
     },
     {
       "symbol": "HDFCBANK.NS",
       "name": "HDFC Bank",
-      "price": 709.0,
-      "prev_close": 720.3,
-      "change": -11.3,
-      "change_pct": -1.57,
-      "date": "2026-08-31",
-      "time": "10:59:02"
+      "price": 708.4,
+      "prev_close": 709.0,
+      "change": -0.6,
+      "change_pct": -0.08,
+      "date": "2026-09-01",
+      "time": "09:29:52"
     }
   ]
 }

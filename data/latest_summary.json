@@ -1,55 +1,55 @@
 {
-  "last_updated": "2026-09-21 10:04:47",
+  "last_updated": "2026-09-22 09:22:49",
   "stocks": [
     {
       "symbol": "RELIANCE.NS",
       "name": "Reliance Industries",
-      "price": 1246.4,
-      "prev_close": 1226.4,
-      "change": 20.0,
-      "change_pct": 1.63,
-      "date": "2026-09-21",
-      "time": "10:04:47"
+      "price": 1247.5,
+      "prev_close": 1247.4,
+      "change": 0.1,
+      "change_pct": 0.01,
+      "date": "2026-09-22",
+      "time": "09:22:48"
     },
     {
       "symbol": "TCS.NS",
       "name": "TCS",
-      "price": 2133.2,
-      "prev_close": 2105.0,
-      "change": 28.2,
-      "change_pct": 1.34,
-      "date": "2026-09-21",
-      "time": "10:04:47"
+      "price": 2107.2,
+      "prev_close": 2128.7,
+      "change": -21.5,
+      "change_pct": -1.01,
+      "date": "2026-09-22",
+      "time": "09:22:48"
     },
     {
       "symbol": "INFY.NS",
       "name": "Infosys",
-      "price": 1040.5,
-      "prev_close": 1051.4,
-      "change": -10.9,
-      "change_pct": -1.04,
-      "date": "2026-09-21",
-      "time": "10:04:47"
+      "price": 1028.1,
+      "prev_close": 1038.5,
+      "change": -10.4,
+      "change_pct": -1.0,
+      "date": "2026-09-22",
+      "time": "09:22:49"
     },
     {
       "symbol": "WIPRO.NS",
       "name": "Wipro",
-      "price": 165.2,
-      "prev_close": 166.83,
-      "change": -1.63,
-      "change_pct": -0.98,
-      "date": "2026-09-21",
-      "time": "10:04:47"
+      "price": 165.14,
+      "prev_close": 164.55,
+      "change": 0.59,
+      "change_pct": 0.36,
+      "date": "2026-09-22",
+      "time": "09:22:49"
     },
     {
       "symbol": "HDFCBANK.NS",
       "name": "HDFC Bank",
-      "price": 740.5,
-      "prev_close": 731.0,
-      "change": 9.5,
-      "change_pct": 1.3,
-      "date": "2026-09-21",
-      "time": "10:04:47"
+      "price": 743.55,
+      "prev_close": 739.5,
+      "change": 4.05,
+      "change_pct": 0.55,
+      "date": "2026-09-22",
+      "time": "09:22:49"
     }
   ]
 }

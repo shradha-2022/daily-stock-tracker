@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01 11:03:17",
+  "last_updated": "2026-10-02 10:36:00",
   "stocks": [
     {
       "symbol": "RELIANCE.NS",
@@ -8,8 +8,8 @@
       "prev_close": 1187.0,
       "change": -19.3,
       "change_pct": -1.63,
-      "date": "2026-10-01",
-      "time": "11:03:16"
+      "date": "2026-10-02",
+      "time": "10:35:59"
     },
     {
       "symbol": "TCS.NS",
@@ -18,8 +18,8 @@
       "prev_close": 2050.6,
       "change": 24.4,
       "change_pct": 1.19,
-      "date": "2026-10-01",
-      "time": "11:03:17"
+      "date": "2026-10-02",
+      "time": "10:36:00"
     },
     {
       "symbol": "INFY.NS",
@@ -28,8 +28,8 @@
       "prev_close": 994.1,
       "change": 40.9,
       "change_pct": 4.11,
-      "date": "2026-10-01",
-      "time": "11:03:17"
+      "date": "2026-10-02",
+      "time": "10:36:00"
     },
     {
       "symbol": "WIPRO.NS",
@@ -38,8 +38,8 @@
       "prev_close": 158.5,
       "change": 0.85,
       "change_pct": 0.54,
-      "date": "2026-10-01",
-      "time": "11:03:17"
+      "date": "2026-10-02",
+      "time": "10:36:00"
     },
     {
       "symbol": "HDFCBANK.NS",
@@ -48,8 +48,8 @@
       "prev_close": 708.7,
       "change": 12.5,
       "change_pct": 1.76,
-      "date": "2026-10-01",
-      "time": "11:03:17"
+      "date": "2026-10-02",
+      "time": "10:36:00"
     }
   ]
 }

@@ -1,55 +1,55 @@
 {
-  "last_updated": "2026-10-07 11:11:18",
+  "last_updated": "2026-10-08 11:28:58",
   "stocks": [
     {
       "symbol": "RELIANCE.NS",
       "name": "Reliance Industries",
-      "price": 1207.7,
-      "prev_close": 1218.0,
-      "change": -10.3,
-      "change_pct": -0.85,
-      "date": "2026-10-07",
-      "time": "11:11:17"
+      "price": 1178.0,
+      "prev_close": 1207.7,
+      "change": -29.7,
+      "change_pct": -2.46,
+      "date": "2026-10-08",
+      "time": "11:28:58"
     },
     {
       "symbol": "TCS.NS",
       "name": "TCS",
-      "price": 2080.3,
-      "prev_close": 2100.0,
-      "change": -19.7,
-      "change_pct": -0.94,
-      "date": "2026-10-07",
-      "time": "11:11:18"
+      "price": 2076.0,
+      "prev_close": 2080.3,
+      "change": -4.3,
+      "change_pct": -0.21,
+      "date": "2026-10-08",
+      "time": "11:28:58"
     },
     {
       "symbol": "INFY.NS",
       "name": "Infosys",
-      "price": 992.0,
-      "prev_close": 1013.85,
-      "change": -21.85,
-      "change_pct": -2.16,
-      "date": "2026-10-07",
-      "time": "11:11:18"
+      "price": 997.0,
+      "prev_close": 992.0,
+      "change": 5.0,
+      "change_pct": 0.5,
+      "date": "2026-10-08",
+      "time": "11:28:58"
     },
     {
       "symbol": "WIPRO.NS",
       "name": "Wipro",
-      "price": 159.6,
-      "prev_close": 161.84,
-      "change": -2.24,
-      "change_pct": -1.38,
-      "date": "2026-10-07",
-      "time": "11:11:18"
+      "price": 158.38,
+      "prev_close": 159.6,
+      "change": -1.22,
+      "change_pct": -0.76,
+      "date": "2026-10-08",
+      "time": "11:28:58"
     },
     {
       "symbol": "HDFCBANK.NS",
       "name": "HDFC Bank",
-      "price": 702.75,
-      "prev_close": 711.45,
-      "change": -8.7,
-      "change_pct": -1.22,
-      "date": "2026-10-07",
-      "time": "11:11:18"
+      "price": 692.25,
+      "prev_close": 702.75,
+      "change": -10.5,
+      "change_pct": -1.49,
+      "date": "2026-10-08",
+      "time": "11:28:58"
     }
   ]
 }

@@ -1,55 +1,55 @@
 {
-  "last_updated": "2026-10-09 11:24:45",
+  "last_updated": "2026-10-12 12:14:00",
   "stocks": [
     {
       "symbol": "RELIANCE.NS",
       "name": "Reliance Industries",
-      "price": 1170.3,
-      "prev_close": 1178.0,
-      "change": -7.7,
-      "change_pct": -0.65,
-      "date": "2026-10-09",
-      "time": "11:24:44"
+      "price": 1158.9,
+      "prev_close": 1170.3,
+      "change": -11.4,
+      "change_pct": -0.97,
+      "date": "2026-10-12",
+      "time": "12:14:00"
     },
     {
       "symbol": "TCS.NS",
       "name": "TCS",
-      "price": 2156.0,
-      "prev_close": 2076.0,
-      "change": 80.0,
-      "change_pct": 3.85,
-      "date": "2026-10-09",
-      "time": "11:24:44"
+      "price": 2125.0,
+      "prev_close": 2156.0,
+      "change": -31.0,
+      "change_pct": -1.44,
+      "date": "2026-10-12",
+      "time": "12:14:00"
     },
     {
       "symbol": "INFY.NS",
       "name": "Infosys",
-      "price": 1023.4,
-      "prev_close": 997.0,
-      "change": 26.4,
-      "change_pct": 2.65,
-      "date": "2026-10-09",
-      "time": "11:24:44"
+      "price": 1020.0,
+      "prev_close": 1023.4,
+      "change": -3.4,
+      "change_pct": -0.33,
+      "date": "2026-10-12",
+      "time": "12:14:00"
     },
     {
       "symbol": "WIPRO.NS",
       "name": "Wipro",
-      "price": 162.57,
-      "prev_close": 158.38,
-      "change": 4.19,
-      "change_pct": 2.65,
-      "date": "2026-10-09",
-      "time": "11:24:44"
+      "price": 161.8,
+      "prev_close": 162.57,
+      "change": -0.77,
+      "change_pct": -0.47,
+      "date": "2026-10-12",
+      "time": "12:14:00"
     },
     {
       "symbol": "HDFCBANK.NS",
       "name": "HDFC Bank",
-      "price": 707.25,
-      "prev_close": 692.25,
-      "change": 15.0,
-      "change_pct": 2.17,
-      "date": "2026-10-09",
-      "time": "11:24:45"
+      "price": 704.9,
+      "prev_close": 707.25,
+      "change": -2.35,
+      "change_pct": -0.33,
+      "date": "2026-10-12",
+      "time": "12:14:00"
     }
   ]
 }

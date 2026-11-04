@@ -1,55 +1,55 @@
 {
-  "last_updated": "2026-11-03 12:06:52",
+  "last_updated": "2026-11-04 12:19:38",
   "stocks": [
     {
       "symbol": "RELIANCE.NS",
       "name": "Reliance Industries",
-      "price": 1307.9,
-      "prev_close": 1300.0,
-      "change": 7.9,
-      "change_pct": 0.61,
-      "date": "2026-11-03",
-      "time": "12:06:51"
+      "price": 1311.0,
+      "prev_close": 1307.9,
+      "change": 3.1,
+      "change_pct": 0.24,
+      "date": "2026-11-04",
+      "time": "12:19:37"
     },
     {
       "symbol": "TCS.NS",
       "name": "TCS",
-      "price": 2499.1,
-      "prev_close": 2501.7,
-      "change": -2.6,
-      "change_pct": -0.1,
-      "date": "2026-11-03",
-      "time": "12:06:51"
+      "price": 2436.0,
+      "prev_close": 2499.1,
+      "change": -63.1,
+      "change_pct": -2.52,
+      "date": "2026-11-04",
+      "time": "12:19:37"
     },
     {
       "symbol": "INFY.NS",
       "name": "Infosys",
-      "price": 1148.1,
-      "prev_close": 1161.0,
-      "change": -12.9,
-      "change_pct": -1.11,
-      "date": "2026-11-03",
-      "time": "12:06:51"
+      "price": 1128.2,
+      "prev_close": 1148.1,
+      "change": -19.9,
+      "change_pct": -1.73,
+      "date": "2026-11-04",
+      "time": "12:19:37"
     },
     {
       "symbol": "WIPRO.NS",
       "name": "Wipro",
-      "price": 198.0,
-      "prev_close": 196.4,
-      "change": 1.6,
-      "change_pct": 0.81,
-      "date": "2026-11-03",
-      "time": "12:06:51"
+      "price": 194.55,
+      "prev_close": 198.0,
+      "change": -3.45,
+      "change_pct": -1.74,
+      "date": "2026-11-04",
+      "time": "12:19:37"
     },
     {
       "symbol": "HDFCBANK.NS",
       "name": "HDFC Bank",
-      "price": 725.5,
-      "prev_close": 700.0,
-      "change": 25.5,
-      "change_pct": 3.64,
-      "date": "2026-11-03",
-      "time": "12:06:52"
+      "price": 736.7,
+      "prev_close": 725.5,
+      "change": 11.2,
+      "change_pct": 1.54,
+      "date": "2026-11-04",
+      "time": "12:19:38"
     }
   ]
 }

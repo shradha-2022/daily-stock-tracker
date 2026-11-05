@@ -1,55 +1,55 @@
 {
-  "last_updated": "2026-11-04 12:19:38",
+  "last_updated": "2026-11-05 12:34:10",
   "stocks": [
     {
       "symbol": "RELIANCE.NS",
       "name": "Reliance Industries",
-      "price": 1311.0,
-      "prev_close": 1307.9,
-      "change": 3.1,
-      "change_pct": 0.24,
-      "date": "2026-11-04",
-      "time": "12:19:37"
+      "price": 1313.4,
+      "prev_close": 1311.0,
+      "change": 2.4,
+      "change_pct": 0.18,
+      "date": "2026-11-05",
+      "time": "12:34:09"
     },
     {
       "symbol": "TCS.NS",
       "name": "TCS",
-      "price": 2436.0,
-      "prev_close": 2499.1,
-      "change": -63.1,
-      "change_pct": -2.52,
-      "date": "2026-11-04",
-      "time": "12:19:37"
+      "price": 2495.7,
+      "prev_close": 2436.0,
+      "change": 59.7,
+      "change_pct": 2.45,
+      "date": "2026-11-05",
+      "time": "12:34:09"
     },
     {
       "symbol": "INFY.NS",
       "name": "Infosys",
-      "price": 1128.2,
-      "prev_close": 1148.1,
-      "change": -19.9,
-      "change_pct": -1.73,
-      "date": "2026-11-04",
-      "time": "12:19:37"
+      "price": 1167.4,
+      "prev_close": 1128.2,
+      "change": 39.2,
+      "change_pct": 3.47,
+      "date": "2026-11-05",
+      "time": "12:34:09"
     },
     {
       "symbol": "WIPRO.NS",
       "name": "Wipro",
-      "price": 194.55,
-      "prev_close": 198.0,
-      "change": -3.45,
-      "change_pct": -1.74,
-      "date": "2026-11-04",
-      "time": "12:19:37"
+      "price": 198.4,
+      "prev_close": 194.55,
+      "change": 3.85,
+      "change_pct": 1.98,
+      "date": "2026-11-05",
+      "time": "12:34:10"
     },
     {
       "symbol": "HDFCBANK.NS",
       "name": "HDFC Bank",
-      "price": 736.7,
-      "prev_close": 725.5,
-      "change": 11.2,
-      "change_pct": 1.54,
-      "date": "2026-11-04",
-      "time": "12:19:38"
+      "price": 760.0,
+      "prev_close": 736.7,
+      "change": 23.3,
+      "change_pct": 3.16,
+      "date": "2026-11-05",
+      "time": "12:34:10"
     }
   ]
 }

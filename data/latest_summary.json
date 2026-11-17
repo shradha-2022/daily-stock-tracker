@@ -1,55 +1,55 @@
 {
-  "last_updated": "2026-11-16 12:58:05",
+  "last_updated": "2026-11-17 13:40:17",
   "stocks": [
     {
       "symbol": "RELIANCE.NS",
       "name": "Reliance Industries",
-      "price": 1344.8,
-      "prev_close": 1339.7,
-      "change": 5.1,
-      "change_pct": 0.38,
-      "date": "2026-11-16",
-      "time": "12:58:05"
+      "price": 1367.0,
+      "prev_close": 1344.8,
+      "change": 22.2,
+      "change_pct": 1.65,
+      "date": "2026-11-17",
+      "time": "13:40:16"
     },
     {
       "symbol": "TCS.NS",
       "name": "TCS",
-      "price": 2405.0,
-      "prev_close": 2407.5,
-      "change": -2.5,
-      "change_pct": -0.1,
-      "date": "2026-11-16",
-      "time": "12:58:05"
+      "price": 2406.6,
+      "prev_close": 2405.0,
+      "change": 1.6,
+      "change_pct": 0.07,
+      "date": "2026-11-17",
+      "time": "13:40:17"
     },
     {
       "symbol": "INFY.NS",
       "name": "Infosys",
-      "price": 1145.1,
-      "prev_close": 1141.5,
-      "change": 3.6,
-      "change_pct": 0.32,
-      "date": "2026-11-16",
-      "time": "12:58:05"
+      "price": 1130.0,
+      "prev_close": 1145.1,
+      "change": -15.1,
+      "change_pct": -1.32,
+      "date": "2026-11-17",
+      "time": "13:40:17"
     },
     {
       "symbol": "WIPRO.NS",
       "name": "Wipro",
-      "price": 193.54,
-      "prev_close": 194.6,
-      "change": -1.06,
-      "change_pct": -0.54,
-      "date": "2026-11-16",
-      "time": "12:58:05"
+      "price": 189.89,
+      "prev_close": 193.54,
+      "change": -3.65,
+      "change_pct": -1.89,
+      "date": "2026-11-17",
+      "time": "13:40:17"
     },
     {
       "symbol": "HDFCBANK.NS",
       "name": "HDFC Bank",
-      "price": 816.5,
-      "prev_close": 804.0,
-      "change": 12.5,
-      "change_pct": 1.55,
-      "date": "2026-11-16",
-      "time": "12:58:05"
+      "price": 814.95,
+      "prev_close": 816.5,
+      "change": -1.55,
+      "change_pct": -0.19,
+      "date": "2026-11-17",
+      "time": "13:40:17"
     }
   ]
 }
